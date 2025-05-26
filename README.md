@@ -17,8 +17,9 @@ A React application demonstrating form validation using Formik and Yup, with rou
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/riasharma17/ReactFormValidation.git
-   cd react-validation-form
+git clone https://github.com/riasharma17/ReactFormValidation.git
+cd ReactFormValidation
+
 Install dependencies:
 
 bash
